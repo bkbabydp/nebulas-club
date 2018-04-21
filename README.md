@@ -29,7 +29,7 @@
 ---
 
 ### 星云官方学习资料
-* 官网：https://nebulas.io
+* 官网：https://nebulas.io
 * 非技术白皮书：https://nebulas.io/docs/NebulasWhitepaperZh.pdf
 * 技术白皮书：https://nebulas.io/docs/NebulasTechnicalWhitepaperZh.pdf
 * 代码库: https://github.com/nebulasio/go-nebulas
