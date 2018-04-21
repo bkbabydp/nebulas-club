@@ -7,7 +7,7 @@
 ### 话题讨论
 
 * 所有讨论以Issue的形式展开, 每个问题推荐带上标签，比如Install, DApp, Api, Feature，News等
-* Issue解决后，将会由管理员close并整理到FAQ.md中
+* Issue解决后，将会由管理员close并整理到[FAQ.md](FAQ.md)中
 
 ### 博客投稿
 
