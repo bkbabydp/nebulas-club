@@ -6,14 +6,18 @@
 
 ### 话题讨论
 
-所有讨论以Issue的形式展开
-每个问题推荐带上标签，比如Install, DApp, Api, Feature，News等
-Issue解决后，将会由管理员close并整理到FAQ.md中
+* 所有讨论以Issue的形式展开, 每个问题推荐带上标签，比如Install, DApp, Api, Feature，News等
+* Issue解决后，将会由管理员close并整理到FAQ.md中
+
+### 博客投稿
+
+* 欢迎大家投稿一起进步，每篇文章以pull reqeust的形式提交
+* 管理员邀请社区小伙伴来确认文章在技术表述上的准确性，之后合并进master分支
 
 ### 案例学习
 
-欢迎大家提交DApp方便大家探讨学习
-每个DApp请提交到example文件夹下，readme.md中需涵盖项目介绍和使用说明
+* 欢迎大家提交DApp方便大家探讨学习, 每个DApp以pull request的形式提交到example文件夹下，readme.md中需涵盖项目介绍和使用说明
+* 管理员验证DApp可以正常工作后，合并进master分支
 
 ### 关注社区
 * https://xingyun.io/ 这个是在线的浏览器和钱包 by @LiuXuFei-阿飞 
