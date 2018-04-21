@@ -35,8 +35,12 @@
 * 官网：https://nebulas.io
 * 非技术白皮书：https://nebulas.io/docs/NebulasWhitepaperZh.pdf
 * 技术白皮书：https://nebulas.io/docs/NebulasTechnicalWhitepaperZh.pdf
-* 代码库: https://github.com/nebulasio/go-nebulas
 * Wiki: https://github.com/nebulasio/wiki
 * Tutorials: https://github.com/nebulasio/wiki/tree/master/tutorials
+* 主链代码: https://github.com/nebulasio/go-nebulas
+* 浏览器代码: https://github.com/nebulasio/explorer
+* 网页钱包代码: https://github.com/nebulasio/web-wallet
+* Web SDK: https://github.com/nebulasio/neb.js
 * 测试网：https://github.com/nebulasio/wiki/blob/master/testnet.md
 * 主网：https://github.com/nebulasio/wiki/blob/master/mainnet.md
+* 区块浏览器: https://explorer.nebulas.io
